@@ -26,3 +26,8 @@
     padding: 10px;
     height: 100%;
 }
+
+.chatMessageInput{
+    width: 350px;
+    height: 60px;
+}
